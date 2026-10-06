@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 50vh;
+    margin: 0;
+    background: bisque;
+}
+
+#button1{
+    margin-top: 10px;
+    width: 400px;
+    height: 20px;
+}
+
+#div1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 450px;
+}
+
+#div2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 450px;
+}
+
+#p1{
+    width: 450px;
+}
