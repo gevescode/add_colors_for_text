@@ -1,1 +1,1 @@
-<img src="lesson.png" alt="Описание картинки" width="300">
+<img src="Lesson.png" alt="Описание картинки" width="300">
